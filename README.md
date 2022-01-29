@@ -7,8 +7,6 @@
 
 - 🤝 I’m looking for help with **2Save - Challenge the unsustainable**
 
-- 💬 Ask me about **java, flutter and entrepreneurship**
-
 - 📫 How to reach me **vinicioswork@gmail.com**
 
 - 📄 Know about my experiences [https://play.google.com/store/apps/developer?id=Visione+Apps&hl=pt-BR](https://play.google.com/store/apps/developer?id=Visione+Apps&hl=pt-BR)

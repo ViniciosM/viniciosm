@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Zapedidos - Delivery App**
 
-- 🌱 I’m currently learning **AWS Amplify**
+- 🌱 I’m currently learning **Angular**
 
 - 🤝 I’m looking for help with **2Save - Challenge the unsustainable**
 

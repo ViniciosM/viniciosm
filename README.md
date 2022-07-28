@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Vini. Nice to meet you!</h1>
 <h3 align="center">Programmer since 2015, passionate about entrepreneurship, technology and innovation.</h3>
 
-- 🔭 I’m currently working on **Zapedidos - Delivery App**
+- 🔭 I’m currently working on **Zapedidos - Delivery App (Pause)**
 
 - 🌱 I’m currently learning **Angular**
 

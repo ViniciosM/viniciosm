@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Zapedidos - Delivery App (Pause)**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Angular + Spring Boot**
 
 - 🤝 I’m looking for help with **2Save - Challenge the unsustainable**
 

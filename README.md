@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vinicios-melo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viniciosmelo" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/watch?v=J1mWr1ETQKs&t=1s&ab_channel=V1SOFTWARES](https://www.youtube.com/channel/UCWXnX0mlgIuAeZQrVwnC-aA)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@vinirod/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vinirod" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Vini. Nice to meet you!</h1>
-<h3 align="center">Programmer since 2016, passionate about entrepreneurship, technology and innovation.</h3>
+<h3 align="center">Coding since 2016, passionate about entrepreneurship, technology and innovation.</h3>
 
-- 🔭 I’m currently working on **Zapedidos - Local Orders App (Personal Project)**
+- 🔭 I’m currently working on **Zapedidos (Personal Project)**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **AWS** and **Python**
 
-- 🤝 I’m looking for help with **2Save - Challenge the unsustainable**
+- 🤝 I’m looking for help with **2Save - Desafie o insustentável**
 
 - 📫 How to reach me **vinicioswork@gmail.com**
 

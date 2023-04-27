@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS** and **Python**
 
-- 🤝 I’m looking for help with **2Save - Desafie o insustentável**
+- 🤝 I'm helping startup **2Save - Desafie o insustentável**
 
 - 📫 How to reach me **vinicioswork@gmail.com**
 

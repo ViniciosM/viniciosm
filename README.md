@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Vini. Nice to meet you!</h1>
 <h3 align="center">Coding since 2016, passionate about entrepreneurship, technology and innovation.</h3>
 
-- 🌱 I’m currently learning **AWS** and **Python**
+- 🌱 I’m currently learning **Model Context Protocol** and **Python**
 
 - 📫 How to reach me **vinicioswork@gmail.com**
 
